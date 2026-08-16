@@ -1,4 +1,4 @@
-# AGENTS.md — modernmethodmarketing.com
+# AGENTS.md — modernmethodmarketing.net
 
 Modern Method Marketing — public face. Standard LOB; house logos now.
 

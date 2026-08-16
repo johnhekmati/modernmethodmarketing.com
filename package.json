@@ -1,8 +1,8 @@
 {
-  "name": "modernmethodmarketing-com",
+  "name": "modernmethodmarketing-net",
   "version": "0.1.0",
   "private": true,
-  "description": "Modern Method Marketing — modernmethodmarketing.com",
+  "description": "Modern Method Marketing — modernmethodmarketing.net",
   "scripts": {
     "preview": "npx --yes serve . -p 5300",
     "deploy": "wrangler pages deploy . --project-name=modern-method-marketing --branch=main --commit-dirty=true"

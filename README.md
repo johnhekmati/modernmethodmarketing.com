@@ -1,4 +1,4 @@
-# modernmethodmarketing.com — Modern Method Marketing
+# modernmethodmarketing.net — Modern Method Marketing
 
 In-house marketing studio for the Hekmati family of brands. Public face of the
 `C:\Grok\mkt-ops` capability (which holds the boundary objects, campaigns, and
@@ -6,12 +6,12 @@ prospect logs — those never land in this public repo).
 
 | | |
 |--|--|
-| **Path** | `C:\Grok\modernmethodmarketing.com` |
+| **Path** | `C:\Github\public\modernmethodmarketing.net` |
 | **Pages project** | `modern-method-marketing` |
-| **Live** | `https://modernmethodmarketing.com` (after domain) · `*.pages.dev` first |
+| **Live** | `https://modernmethodmarketing.net` · `*.pages.dev` first |
 | **Deploy** | `npm run deploy` (wrangler pages deploy) |
 | **Preview** | `npm run preview` → http://127.0.0.1:5300 |
-| **Email** | hello@modernmethodmarketing.com (Proton Business) |
+| **Email** | john@ / kristi@ on `.net` (Proton). `.com` was a scaffold typo. |
 
 ## Stack
 
